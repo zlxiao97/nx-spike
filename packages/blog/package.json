@@ -1,0 +1,11 @@
+{
+  "name": "@nx-spike/blog",
+  "version": "0.0.0",
+  "dependencies": {
+    "ascii": "*"
+  },
+  "scripts": {
+    "build": "eleventy --input=./src --output=../../dist/packages/blog",
+    "serve": "eleventy --serve --input=./src --output=../../dist/packages/blog"
+  }
+}
