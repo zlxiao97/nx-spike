@@ -1,0 +1,7 @@
+{
+  "name": "@nx-spike/cow",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "node index.js"
+  }
+}
